@@ -24,3 +24,8 @@ function criarPessoa(nome, idade, cidade, contatos, grupos) {
 }
 
 console.log(criarPessoa(null, null, null, [21988888888, "maria@email.com"], ["Trabalho", "Estudos"]));
+
+
+
+
+
