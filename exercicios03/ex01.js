@@ -6,7 +6,7 @@ const produto = {
 
 }
 
-for (item in produto) {
+for (let item in produto) {
     console.log(`${item}: ${produto[item]}`)
 }
 
